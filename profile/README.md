@@ -1,14 +1,13 @@
-# 🙋‍ 2022.1 - Módulo Game - Turma 1 - Ambev
+# 🙋‍ 2022.1 - Módulo WEB - Turma 1 - Brazilians in Tech
 
 ## 🔍 O problema:
-Baixo engajamento no treinamento tradicional sobre o tema diversidade e inclusão.
+Baixo engajamento das mulheres no mercado de trabalho na tecnologia.
 
 ## 🎯 O objetivo:
-Transformar os materiais da companhia em um Game para aumentar o engajamento e a retenção do treinamento.
+A solução propõe às usuárias o cadastramento de seu curriculo e suas softskills em uma plataforma Web, onde é realizado um match com as vagas disponíveis que se adequem ao perfil da candidata, eliminando assim a percepção de que a usuária deve atender à 100% dos requisitos.
 
 ## 🧩 O público-alvo:
-30.000 colaboradores Ambev.
-
+Mulheres na tecnologia
 ## 💻 Os jogos:
 
 - Grupo 1 - WomenIn - Desenvolvimento Web "BIT Match":
