@@ -1,13 +1,13 @@
 # 🙋‍ 2022.2 - Módulo WEB - Turma 1 - Brazilians in Tech
 
 ## 🔍 O problema:
-Baixo engajamento das mulheres no mercado de trabalho na tecnologia.
+Mulheres, principalmente em início de carreira, não se sentem seguras e enfrentam dificuldades para selecionar e identificar vagas que estão alinhadas com o seu perfil profissional.
 
 ## 🎯 O objetivo:
-A solução propõe às usuárias o cadastramento de seu curriculo e suas softskills em uma plataforma Web, onde é realizado um match com as vagas disponíveis que se adequem ao perfil da candidata, eliminando assim a percepção de que a usuária deve atender à 100% dos requisitos.
+Uma aplicação web para encontrar vagas de emprego na área de tecnologia que sejam aderentes ao perfil profissional da mulher, considerando as suas habilidades técnicas e não técnicas.
 
 ## 🧩 O público-alvo:
-Mulheres na tecnologia
+Mulheres brasileiras entre 18 e 30 anos que estão buscando vagas de emprego na área de tecnologia.
 
 ## 💻 Desenvolvimento WEB:
 
