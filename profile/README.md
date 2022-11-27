@@ -12,7 +12,7 @@ Mulheres brasileiras entre 18 e 30 anos que estão buscando vagas de emprego na 
 ## 💻 Desenvolvimento WEB:
 
 - Grupo 1 - WomenIn - Desenvolvimento Web "BIT Match":
-  - Link para acessar: 
+  - Link para acessar: não disponível.
   - Link do repositório: https://github.com/2022M2T1/WomenIn
 
 - Grupo 2 - Programaria - Desenvolvimento Web "BIT Discover":
@@ -24,9 +24,9 @@ Mulheres brasileiras entre 18 e 30 anos que estão buscando vagas de emprego na 
   - Link do repositório: https://github.com/2022M2T1/BitJobs
   
 - Grupo 4 - Lovelace:
-  - Link para acessar: 
+  - Link para acessar: não disponível.
   - Link do repositório: https://github.com/2022M2T1/Lovelace
   
 - Grupo 5 - InTech:
-  - Link para acessar: 
+  - Link para acessar: não disponível.
   - Link do repositório: https://github.com/2022M2T1/InTech
